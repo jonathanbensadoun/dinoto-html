@@ -186,4 +186,7 @@ body {
   .container-cross {
     padding: 0rem;
   }
+  .container-img {
+    width: 4000px;
+  }
 }
