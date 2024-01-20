@@ -189,4 +189,7 @@ body {
   .container-img {
     width: 4000px;
   }
+  .img {
+    border-radius: 8px;
+  }
 }
